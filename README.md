@@ -5,7 +5,7 @@
 * [LINK](https://github.com/Miniminis/Java-console-minigame-project)
 
 ## 맡은 부분
-* [회원가입/로그인](https://github.com/Miniminis/Java-console-minigame-project/tree/master/ConsoleGameProject/src/user)
+* [회원가입/로그인](https://github.com/dahee0325/Java_console_minigame/tree/master/ConsoleGameProject/src/user)
 
 
 ## 프로젝트 설명 PPT 
@@ -19,4 +19,4 @@
 * `java` v1.8
 
 ## 설치 및 실행
-최종 실행 파일: ConsoleGameProject 폴더만 다운받아 실행시켜주세요.
+최종 실행 파일: ConsoleGameProject 폴더
