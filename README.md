@@ -2,7 +2,7 @@
 > 순수 `java` 만을 이용해서 제작한 콘솔 미니게임 프로젝트
 
 ## 원본 깃허브
-* [LINK] (https://github.com/Miniminis/Java-console-minigame-project)
+* [LINK](https://github.com/Miniminis/Java-console-minigame-project)
 
 ## 맡은 부분
 * [회원가입/로그인](https://github.com/Miniminis/Java-console-minigame-project/tree/master/ConsoleGameProject/src/user)
