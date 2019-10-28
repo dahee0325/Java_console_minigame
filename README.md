@@ -1,12 +1,12 @@
 # 자바로 만든 콘솔 미니게임 팀 프로젝트
 > 순수 `java` 만을 이용해서 제작한 콘솔 미니게임 프로젝트
 
-## Table of contents
+## 원본 깃허브
+* [LINK] (https://github.com/Miniminis/Java-console-minigame-project)
+
+## 맡은 부분
 * [회원가입/로그인](https://github.com/Miniminis/Java-console-minigame-project/tree/master/ConsoleGameProject/src/user)
-* [게임 1 : 억울한 사형수를 살려라! - 행맨게임](https://github.com/Miniminis/Java-console-minigame-project/tree/master/ConsoleGameProject/src/hangMan)
-* [게임 2 : 영화제목을 맞춰라!](https://github.com/Miniminis/Java-console-minigame-project/tree/master/ConsoleGameProject/src/movieGame)
-* [게임 3 : 가위바위보!](https://github.com/Miniminis/Java-console-minigame-project/tree/master/ConsoleGameProject/src/networkreal)
-* [게임 랭킹 확인](https://github.com/Miniminis/Java-console-minigame-project/tree/master/ConsoleGameProject/src/lankTest)
+
 
 ## 프로젝트 설명 PPT 
 * 전체 프로젝트 흐름도 
